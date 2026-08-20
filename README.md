@@ -4,7 +4,7 @@ Don't be scared. You just found a cat who accidentally learned to code. When I'm
 
 You are the 
 <img src="https://count.getloli.com/@xiaoxiaoyang-114514?name=xiaoxiaoyang-114514&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="xiaoxiaoyang-114514" />
-  person to pet me...
+  human to pet me...
 
 ***
 
