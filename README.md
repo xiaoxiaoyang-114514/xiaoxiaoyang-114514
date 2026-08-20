@@ -8,7 +8,7 @@ You are the
 
 ### Who am I
 
-Just a bug maker,but a cat.I usually write some strange code.
+Just a bug maker, but a cat. I usually write some strange code.
 
 ### Some of my strange projects
 <a href="https://github.com/xiaoxiaoyang-114514/bfc">
