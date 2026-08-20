@@ -6,6 +6,8 @@ You are the
 <img src="https://count.getloli.com/@xiaoxiaoyang-114514?name=xiaoxiaoyang-114514&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="xiaoxiaoyang-114514" />
   person to pet me...
 
+***
+
 ### Who am I
 
 Just a bug maker, but a cat. I usually write some strange code.
@@ -17,5 +19,9 @@ Just a bug maker, but a cat. I usually write some strange code.
 <br>
 <a href="https://github.com/xiaoxiaoyang-114514/rustbf">
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=xiaoxiaoyang-114514&repo=rustbf&theme=radical" />
+</a>
+<br>
+<a href="https://github.com/xiaoxiaoyang-114514/SheepToolkit">
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api/pin/?username=xiaoxiaoyang-114514&repo=SheepToolkit&theme=radical" />
 </a>
 
