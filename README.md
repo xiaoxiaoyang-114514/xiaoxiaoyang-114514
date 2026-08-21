@@ -3,7 +3,7 @@
 Don't be scared. You just found a cat who accidentally learned to code. When I'm not napping in the sunbeams or knocking things from desk, I'm building things and pushing commits with my tiny toe beans.
 
 You are the 
-<img src="https://count.getloli.com/@xiaoxiaoyang-114514?name=xiaoxiaoyang-114514&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="xiaoxiaoyang-114514" />
+<img src="https://count.getloli.com/@xiaoxiaoyang-114514?name=xiaoxiaoyang-114514&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="xiaoxiaoyang-114514" />
   human to pet me...
 
 ***
